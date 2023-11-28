@@ -19,7 +19,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 [Email](chenkeru0115@gmail.com) / [Github](CLIVERCHEN) / [Zhihu](https://www.zhihu.com/people/chen-ke-ru-46) / [500px](https://500px.com.cn/community/user-details/1399dc72d47cfb674f14f7095df897789?mine=1) / [BiliBili](https://space.bilibili.com/349627502?spm_id_from=333.1007.0.0)
 
 # Education
-### Bachelor of Engineering in Automation (Sep 2021 -- Current)
+### Bachelor of Engineering in Automation (Sep 2021 -- Present)
 * Xi'an Jiaotong University
 * GPA: 3.6/4.3
 * Major courses: Data structures, Programming design, Operational research, Artificial Intelligence, University Physics, Pattern recognition, Computer graphic, Reinforcement learning, Digital Signal Processing, Principle of Automatic Control, Probability Theory and Stochastic Process
