@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am Keru Chen, currently a junior majoring in Automation at Xi'an Jiaotong University. I am set to receive my Bachelor of Engineering degree in the fall semester of 2025. My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning and its applications in areas like healthcare and robotics. I have also worked on projects in computer vision and computational optical imaging.
+Welcome to my personal website! I am Keru Chen, currently a junior majoring in Automation at Xi'an Jiaotong University. I am set to receive my Bachelor of Engineering degree in the fall semester of 2025. 
+
+My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning and its applications in areas like healthcare and robotics. I have also worked on projects in computer vision and computational optical imaging.
 
 I am very fortunate to be advised by [Prof. Sen Lin](https://slin70.github.io/) from Computer Science Department at University of Houston.
 
