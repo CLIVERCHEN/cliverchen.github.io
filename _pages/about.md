@@ -39,5 +39,5 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 # Get in Touch
 If you want to get in touch, you can reach me at any time via chenkeru0115@gmail.com or chenkeru@stu.xjtu.edu.cn .
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CUeW8GoaI6RpnTxJlJEAsietKXCiiLAPDkyiG2YeKx0&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bxu0" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=CUeW8GoaI6RpnTxJlJEAsietKXCiiLAPDkyiG2YeKx0&cl=ffffff"></a>
 
