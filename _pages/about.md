@@ -25,6 +25,9 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 * Major courses: Data structures, Programming design, Operational research, Artificial Intelligence, University Physics, Pattern recognition, Computer graphic, Reinforcement learning, Digital Signal Processing, Principle of Automatic Control, Probability Theory and Stochastic Process
 
 # Research Experience
+### University of North Carolina at Chapel Hill (Jan 2024 -- Present)
+* Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from MIT, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
+
 ### University of Houston (Sep 2023 -- Present)
 * Supervised by [Prof. Sen Lin](https://slin70.github.io/) from University of Houston.
 * Combining jump start reinforcement learning and constrained reinforcement learning, the algorithm is designed and analyzed theoretically.
@@ -36,5 +39,10 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 # Get in Touch
 If you want to get in touch, you can reach me at any time via chenkeru0115@gmail.com or chenkeru@stu.xjtu.edu.cn .
 
-<a href="https://info.flagcounter.com/9BNk"><img src="https://s01.flagcounter.com/map/9BNk/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+<div style="text-align: center;">
+    <a href="https://info.flagcounter.com/9BNk">
+        <img src="https://s01.flagcounter.com/map/9BNk/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0">
+    </a>
+</div>
+
 
