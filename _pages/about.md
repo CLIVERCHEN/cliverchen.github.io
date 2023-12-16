@@ -39,10 +39,5 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 # Get in Touch
 If you want to get in touch, you can reach me at any time via chenkeru0115@gmail.com or chenkeru@stu.xjtu.edu.cn .
 
-<div style="text-align: center;">
-    <a href="https://info.flagcounter.com/9BNk">
-        <img src="https://s01.flagcounter.com/map/9BNk/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0">
-    </a>
-</div>
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CUeW8GoaI6RpnTxJlJEAsietKXCiiLAPDkyiG2YeKx0&cl=ffffff&w=a"></script>
 
