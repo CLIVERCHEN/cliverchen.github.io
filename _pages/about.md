@@ -26,7 +26,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
 
 # Research Experience
 ### University of North Carolina at Chapel Hill (Jan 2024 -- Present)
-* Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from MIT, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
+* Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
 
 ### University of Houston (Sep 2023 -- Present)
 * Supervised by [Prof. Sen Lin](https://slin70.github.io/) from University of Houston.
