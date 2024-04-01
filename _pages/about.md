@@ -14,7 +14,7 @@ My research interests span the field of artificial intelligence, including the t
 
 I am very fortunate to be advised by [Prof. Sen Lin](https://slin70.github.io/) from Computer Science Department at University of Houston.
 
-You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV.pdf).
+You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.pdf).
 
 [Email](chenkeru0115@gmail.com) / [Github](CLIVERCHEN) / [Zhihu](https://www.zhihu.com/people/chen-ke-ru-46) / [500px](https://500px.com.cn/community/user-details/1399dc72d47cfb674f14f7095df897789?mine=1) / [BiliBili](https://space.bilibili.com/349627502?spm_id_from=333.1007.0.0)
 
