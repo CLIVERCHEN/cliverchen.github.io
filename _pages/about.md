@@ -25,7 +25,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.p
 * Major courses: Data structures, Programming design, Operational research, Artificial Intelligence, University Physics, Pattern recognition, Computer graphic, Reinforcement learning, Digital Signal Processing, Principle of Automatic Control, Probability Theory and Stochastic Process
 
 # Research Experience
-### University of North Carolina at Chapel Hill (Jan 2024 -- Present)
+### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
 * Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
 
 ### University of Houston (Sep 2023 -- Present)
