@@ -21,16 +21,20 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.p
 # Education
 ### Bachelor of Engineering in Automation (Sep 2021 -- Present)
 * Xi'an Jiaotong University
-* GPA: 3.6/4.3
+* GPA: 3.4/4.3
 * Major courses: Data structures, Programming design, Operational research, Artificial Intelligence, University Physics, Pattern recognition, Computer graphic, Reinforcement learning, Digital Signal Processing, Principle of Automatic Control, Probability Theory and Stochastic Process
 
 # Research Experience
-### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
-* Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
+### Xi'an Jiaotong University (Apr 2024 -- Present)
+* Supervised by [Prof. Yan Yang](https://math.xjtu.edu.cn/info/1370/12577.htm) from School of Mathematics and Statistics, Xi’an Jiaotong University.
+* Design deep learning based algorithm for MRI reconstruction.
 
 ### University of Houston (Sep 2023 -- Present)
 * Supervised by [Prof. Sen Lin](https://slin70.github.io/) from University of Houston.
 * Combining jump start reinforcement learning and constrained reinforcement learning, the algorithm is designed and analyzed theoretically.
+
+### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
+* Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
 
 ### Chinese Academy of Sciences (Feb 2023 -- Oct 2023)
 * Supervised by [Prof. An Pan](http://www.piclaboratory.com/col.jsp?id=113) from [Pioneering Interdiscipline Center](http://www.piclaboratory.com/), State Key Laboratory of Transient Optics and Photonics, Xi'an Institute of Optics and Precision Mechanics, CAS.
