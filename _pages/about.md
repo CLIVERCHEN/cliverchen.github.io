@@ -35,6 +35,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.p
 
 ### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
 * Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
+* Take part in research about time series forecasting and lead research on attacking LLM&RAG.
 
 ### Chinese Academy of Sciences (Feb 2023 -- Oct 2023)
 * Supervised by [Prof. An Pan](http://www.piclaboratory.com/col.jsp?id=113) from [Pioneering Interdiscipline Center](http://www.piclaboratory.com/), State Key Laboratory of Transient Optics and Photonics, Xi'an Institute of Optics and Precision Mechanics, CAS.
