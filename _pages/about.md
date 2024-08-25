@@ -39,19 +39,19 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/My_CV.pdf).
 
 # Project
 ### Translation of Breast Cancer Cell Staining Images Based on Multi-Scale GAN
-* Supervised by \href{https://math.xjtu.edu.cn/info/1370/12577.htm}{\textbf{Prof. Yan Yang}} from School of Mathematics and Statistics, Xi'an Jiaotong University.
+* Supervised by [Prof. Yan Yang](https://math.xjtu.edu.cn/info/1370/12577.htm) from School of Mathematics and Statistics, Xi'an Jiaotong University.
 * Received the **National Second Prize** at the 9th National Undergraduate Biomedical Engineering Innovation Design Competition.
 * We used a U-Net with an added attention mechanism as the generator, a multi-scale CNN as the discriminator, and a loss function based on the Frobenius norm to balance the weights of each discriminator, all within the training framework of a Wasserstein GAN.
 
 ### Waveformer: A Transformer based EEG Sleep Stage Classifier
-* Supervised by \href{https://gr.xjtu.edu.cn/web/ggwang/home}{\textbf{Prof. Gang Wang}} from The Biomedical-Information Engineering laboratory of State Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University.
+* Supervised by [Prof. Gang Wang](https://gr.xjtu.edu.cn/web/ggwang/home)  from The Biomedical-Information Engineering laboratory of State Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University.
 * Combined with deep learning and signal processing techniques, i.e. encoder block of Transformer, convolutional auto-encoder and wavelet transform to classify sleep stages using EEG, and reached a classification accuracy of 75\% in a private dataset, the highest level in this course.
 * This project and its report have been uploaded to [Github](https://github.com/CLIVERCHEN/Waveformer_EEG_Sleep_Stage_Classifier).
 
 ### Face super-resolution based on deep learning
 * This project is participating in **National Innovation and Entrepreneurship Competition**.
-* Supervised by \href{https://gr.xjtu.edu.cn/en/web/jingang}{\textbf{Prof. Jingang Shi}} from School of Software Engineering, Xi 'an Jiaotong University.
-* Improved  IDPT algorithm and build web-demo based on Flask and Ajax according to the algorithm to realize face detection, crop and super-resolution restoration of a given photo.
+* Supervised by [Prof. Jingang Shi](https://gr.xjtu.edu.cn/en/web/jingang) from School of Software Engineering, Xi 'an Jiaotong University.
+* Improved [IDPT](https://www.ijcai.org/proceedings/2022/182)(IJCAI 2022) algorithm and build web-demo based on Flask and Ajax according to the algorithm to realize face detection, crop and super-resolution restoration of a given photo.
 
 # Get in Touch
 If you want to get in touch, you can reach me at any time via chenkeru0115@gmail.com or chenkeru@stu.xjtu.edu.cn .
