@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my personal website! I am Keru Chen, currently a junior majoring in Automation at Xi'an Jiaotong University. I am set to receive my Bachelor of Engineering degree in the fall semester of 2025. 
 
-My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning and its applications in areas like healthcare and robotics. I have also worked on projects in computer vision and computational optical imaging.
+My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning robotics and LLMs. I have also worked on projects in computer vision and computational optical imaging.
 
-I am very fortunate to be advised by [Prof. Sen Lin](https://slin70.github.io/) from Computer Science Department at University of Houston.
+I am very fortunate to be advised by [Prof. Sen Lin](https://slin70.github.io/) from Computer Science Department at University of Houston. I am currently a research intern at [Milab](https://milab.westlake.edu.cn/), Westlake University, specializing in robotics, reinforcement learning, and large language-vision-action models.
 
 You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.pdf).
 
@@ -25,9 +25,9 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.p
 * Major courses: Data structures, Programming design, Operational research, Artificial Intelligence, University Physics, Pattern recognition, Computer graphic, Reinforcement learning, Digital Signal Processing, Principle of Automatic Control, Probability Theory and Stochastic Process
 
 # Research Experience
-### Xi'an Jiaotong University (Apr 2024 -- Present)
-* Supervised by [Prof. Yan Yang](https://math.xjtu.edu.cn/info/1370/12577.htm) from School of Mathematics and Statistics, Xi’an Jiaotong University.
-* Design deep learning based algorithm for MRI reconstruction.
+### Westlake University (Apr 2024 -- Present)
+* Supervised by [Prof. Donglin Wang](https://milab.westlake.edu.cn/) from Westlake University.
+* Design noval algorithm based on vision-language-action model(e.g. OpenVLA) using RL.
 
 ### University of Houston (Sep 2023 -- Present)
 * Supervised by [Prof. Sen Lin](https://slin70.github.io/) from University of Houston.
@@ -36,10 +36,6 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/CV_Chen_Keru.p
 ### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
 * Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
 * Take part in research about time series forecasting and lead research on attacking LLM&RAG.
-
-### Chinese Academy of Sciences (Feb 2023 -- Oct 2023)
-* Supervised by [Prof. An Pan](http://www.piclaboratory.com/col.jsp?id=113) from [Pioneering Interdiscipline Center](http://www.piclaboratory.com/), State Key Laboratory of Transient Optics and Photonics, Xi'an Institute of Optics and Precision Mechanics, CAS.
-* I undertook the task of improving Fourier Ptychography Microscope algorithm and helped the professor complete the experiment. A review article titled will be published soon.
 
 # Get in Touch
 If you want to get in touch, you can reach me at any time via chenkeru0115@gmail.com or chenkeru@stu.xjtu.edu.cn .
