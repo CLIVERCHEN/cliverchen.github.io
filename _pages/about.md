@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website! I am Keru Chen, currently a junior majoring in Automation at Xi'an Jiaotong University. I am set to receive my Bachelor of Engineering degree in the fall semester of 2025. 
 
-My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning robotics and LLMs. I have also worked on projects in computer vision and computational optical imaging.
+My research interests span the field of artificial intelligence, including the theory and application of machine learning, particularly in reinforcement learning, robotics and LLMs. I have also worked on projects in computer vision and computational optical imaging.
 
 I am very fortunate to be advised by [Prof. Sen Lin](https://slin70.github.io/) from Computer Science Department at University of Houston. I am currently a research intern at [Milab](https://milab.westlake.edu.cn/), Westlake University, specializing in robotics, reinforcement learning, and large language-vision-action models.
 
