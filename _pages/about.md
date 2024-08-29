@@ -35,7 +35,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/My_CV.pdf).
 
 ### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
 * Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
-* Take part in research about time series forecasting and lead research on attacking LLM&RAG.
+* Take part in research about time series forecasting and lead research on attacking LLM&RAG. You can find our paper [here](https://arxiv.org/pdf/2406.19417).
 
 # Project
 ### Translation of Breast Cancer Cell Staining Images Based on Multi-Scale GAN
@@ -45,7 +45,7 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/My_CV.pdf).
 
 ### Waveformer: A Transformer based EEG Sleep Stage Classifier
 * Supervised by [Prof. Gang Wang](https://gr.xjtu.edu.cn/web/ggwang/home)  from The Biomedical-Information Engineering laboratory of State Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University.
-* Combined with deep learning and signal processing techniques, i.e. encoder block of Transformer, convolutional auto-encoder and wavelet transform to classify sleep stages using EEG, and reached a classification accuracy of 75\% in a private dataset, the highest level in this course.
+* Combined with deep learning and signal processing techniques, i.e. encoder block of Transformer, convolutional auto-encoder and wavelet transform to classify sleep stages using EEG, and reached a classification accuracy of 75% in a private dataset, the highest level in this course.
 * This project and its report have been uploaded to [Github](https://github.com/CLIVERCHEN/Waveformer_EEG_Sleep_Stage_Classifier).
 
 ### Face super-resolution based on deep learning
