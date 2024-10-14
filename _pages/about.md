@@ -31,11 +31,11 @@ You can find my CV here: [Keru Chen's Curriculum Vitae](../assets/My_CV.pdf).
 
 ### University of Houston (Sep 2023 -- Present)
 * Supervised by [Prof. Sen Lin](https://slin70.github.io/) from University of Houston.
-* Combining jump start reinforcement learning and constrained reinforcement learning, the algorithm is designed and analyzed theoretically.
+* Combine offline-to-online reinforcement learning and constrained reinforcement learning, the algorithm is designed and analyzed theoretically. (Submit to ICLR 2025)
 
 ### University of North Carolina at Chapel Hill (Jan 2024 -- May 2024)
 * Supervised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/) from Broad Institute of MIT and Harvard, who will soon join The University of North Carolina at Chapel Hill as an Assistant Professor of Computer Science.
-* Take part in research about time series forecasting and lead research on attacking LLM&RAG. You can find our paper [here](https://arxiv.org/pdf/2406.19417).
+* Take part in research about time series forecasting and lead research on attacking LLM&RAG. You can find our paper [here](https://arxiv.org/pdf/2406.19417) (accept by EMNLP 2024).
 
 # Project
 ### Translation of Breast Cancer Cell Staining Images Based on Multi-Scale GAN
