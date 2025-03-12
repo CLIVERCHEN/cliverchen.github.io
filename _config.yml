@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keru Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Keru Chen"
-description              : &description "a Third year undergraduate student from XJTU"
+description              : &description "a forth year undergraduate student from XJTU"
 url                      : https://cliverchen.github.io
 baseurl                  : ""
 repository               : "CLIVERCHEN/cliverchen.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Keru Chen (陈科儒)"
-  avatar           : "KeruChen.png"
+  avatar           : "ae9d636434e10dd2660c32a3c358fc4.png"
   bio              : "My life is short. I can't listen to banality."
   location         : "Xi'an, China"
   employer         :
